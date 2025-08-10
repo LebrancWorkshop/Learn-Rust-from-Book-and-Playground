@@ -1,7 +1,5 @@
 [workspace]
 resolver = "3"
 members = [
-  "playgrounds",
-  "books",
-  "labs"
-]
+  "chapters/chapter_01"
+, "chapters/chapter_02"]
