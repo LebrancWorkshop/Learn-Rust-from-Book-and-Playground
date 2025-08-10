@@ -30,7 +30,6 @@ Learning Go from many great resources that you can find and learn for free on Yo
 - [[TH] Video: ภาษา Rust คือ อะไร? (Niwat Kaewkert)](https://www.youtube.com/watch?v=tQLUfsEZfFM)
 - [[TH] Playlist: Rust Programming (BARCODE)](https://www.youtube.com/playlist?list=PLtfWtWKHvrn8fRqhbbrbIZF1tW21sxbqi)
 - [[TH] Playlist: Rust Programming Language (Cumming soon)](https://www.youtube.com/playlist?list=PLiVVfnY4ieNoacRsIQtD-0oSVyC0XC-KJ)
-
 - [[TH] Playlist: Rust Lang Live (KubeOps Skills)](https://www.youtube.com/playlist?list=PLWApnCxWplk7nuxEI3mwiAcg6DdjS9QU_)
 
 ### Korean Language
