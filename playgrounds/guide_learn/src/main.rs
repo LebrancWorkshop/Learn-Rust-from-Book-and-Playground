@@ -1,4 +1,8 @@
+fn calculate_tax(price: f64) -> f64 {
+    return price * 0.07;
+}
+
 fn main() {
-    let scores: [u8; 5] = [99, 98, 96, 92, 90];
-    println!("The Second Subject Score: {}", scores[1]);
+    let tax = calculate_tax(98.00);
+    println!("Tax: {}", tax);
 }
