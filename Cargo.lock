@@ -39,5 +39,9 @@ name = "lab_ownership"
 version = "0.1.0"
 
 [[package]]
+name = "lab_reference"
+version = "0.1.0"
+
+[[package]]
 name = "lab_slice"
 version = "0.1.0"

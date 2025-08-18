@@ -2,4 +2,4 @@
 resolver = "3"
 members = [
   "chapters/chapter_01"
-, "chapters/chapter_02", "labs/lab_borrowing", "labs/lab_condition", "labs/lab_loop", "labs/lab_loop_for", "labs/lab_ownership", "labs/lab_slice", "playgrounds/guide_learn", "rustlings"]
+, "chapters/chapter_02", "labs/lab_borrowing", "labs/lab_condition", "labs/lab_loop", "labs/lab_loop_for", "labs/lab_ownership", "labs/lab_reference", "labs/lab_slice", "playgrounds/guide_learn", "rustlings"]
