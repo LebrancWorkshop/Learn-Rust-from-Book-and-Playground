@@ -45,3 +45,7 @@ version = "0.1.0"
 [[package]]
 name = "lab_slice"
 version = "0.1.0"
+
+[[package]]
+name = "lab_trait"
+version = "0.1.0"
