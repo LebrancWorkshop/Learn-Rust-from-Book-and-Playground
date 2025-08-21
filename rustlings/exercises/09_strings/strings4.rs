@@ -1,5 +1,16 @@
 // Calls of this function should be replaced with calls of `string_slice` or `string`.
-fn placeholder() {}
+enum Str<'a> {
+    StrReal(String),
+    StrSlice(&'a str)
+}
+
+fn placeholder(arg: &str) {
+    match arg {
+        Str::StrReal(String) => {
+            string(arg)
+        }
+    }
+}
 
 fn string_slice(arg: &str) {
     println!("{arg}");
