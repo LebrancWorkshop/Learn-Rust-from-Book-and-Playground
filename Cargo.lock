@@ -3,11 +3,19 @@
 version = 4
 
 [[package]]
+name = "algorithm"
+version = "0.1.0"
+
+[[package]]
 name = "chapter_01"
 version = "0.1.0"
 
 [[package]]
 name = "chapter_02"
+version = "0.1.0"
+
+[[package]]
+name = "cpu"
 version = "0.1.0"
 
 [[package]]
